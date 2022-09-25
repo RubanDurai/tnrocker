@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(./404 Error Page/gif.gif);
+    background: url(/404 Error Page/gif.gif);
     background-position: center;
     background-repeat: no-repeat;
 }
