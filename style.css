@@ -51,7 +51,7 @@ border : 1px solid silver;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(/404 Error Page/gif.gif);
+    background: url(gif.gif);
     background-position: center;
     background-repeat: no-repeat;
 }
